@@ -1,1 +1,1 @@
-[![GitHub Streak]([https://streak-stats.demolab.com?user=Seeyaflying&theme=dark](https://streak-stats.demolab.com/demo/?user=Seeyaflying&theme=dark&hide_border=false&border_radius=4.5&locale=en&short_numbers=false&date_format=&mode=daily&exclude_days=&sections=total%2Ccurrent%2Clongest&card_width=495&card_height=195&type=svg&background-type=solid&properties=background))](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Seeyaflying&theme=dark)](https://git.io/streak-stats)
